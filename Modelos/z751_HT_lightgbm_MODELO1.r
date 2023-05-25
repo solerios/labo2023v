@@ -29,7 +29,7 @@ options(error = function() {
 })
 #------------------------------------------------------------------------------
 
-#Parametros del script
+#Parametros del scriptV
 PARAM  <- list()
 PARAM$experimento  <- "HT7510"
 
