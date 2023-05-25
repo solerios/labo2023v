@@ -21,7 +21,7 @@ PARAM$experimento <- "TS74100"
 PARAM$exp_input  <- "FE73100"
 
 # me salteo los meses duros de pandemia, pero llego hasta 201907 en training
-# entreno en 18 meses
+# entreno en 18 meses V
 
 PARAM$future       <- c( 202107 )
 PARAM$final_train  <- c( 202105, 202104, 202103, 202102, 202101, 202012, 202011, 202010, 202009, 202008, 202007, 202006, 202005, 202004, 202003, 202002, 202001, 201912)
