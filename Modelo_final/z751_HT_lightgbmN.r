@@ -31,7 +31,7 @@ options(error = function() {
 
 #Parametros del script
 PARAM  <- list()
-PARAM$experimento  <- "HT7510N"
+PARAM$experimento  <- "HT7510NN"
 
 PARAM$exp_input  <- "TS7410N"
 
